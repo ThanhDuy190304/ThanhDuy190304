@@ -30,8 +30,6 @@ I like keeping things simple, moving fast, and not over-engineering.
 
 ## GitHub Stats
 
-## GitHub Stats
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ThanhDuy190304&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
