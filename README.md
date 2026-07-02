@@ -26,16 +26,4 @@ I like keeping things simple, moving fast, and not over-engineering.
 
 `WordPress` `Elementor`
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ThanhDuy190304&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-  </a>
-
-  <a href="https://git.io/streak-stats">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhDuy190304&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-  </a>
-</p>
