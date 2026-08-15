@@ -1,6 +1,6 @@
 # Thanh Duy
 
-Fullstack developer. I mostly work with Go on the backend and React on the front. Currently building [SayReal](https://sayreal.org) — a sober driver booking app in Vietnam.
+Fullstack developer. I mostly work with Go on the backend and NextJS, Flutter on the front.
 
 I like keeping things simple, moving fast, and not over-engineering.
 
@@ -18,7 +18,7 @@ I like keeping things simple, moving fast, and not over-engineering.
 
 ## Projects
 
-**[SayReal](https://sayreal.org)** `Jun 2025 – present` — book a sober driver to get you home safe. Built this from scratch, handling everything from the backend API to the web frontend.
+**[SayReal](https://sayreal.org)** `Jun 2025 – Aug 2026` — book a sober driver to get you home safe. Built this from scratch, handling everything from the backend API to the web frontend.
 
 `Next.js` `Go` `Nginx` `Redis`
 
